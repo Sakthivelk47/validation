@@ -1,1 +1,1 @@
-# validation
+create the simple validation page
