@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form -validation</title>
+    <link rel="stylesheet" href="indexfv.css">
+</head>
+
+<body>
+    <h1> Create Your Account</h1>
+    <form id="form-validate">
+        <div class="form-group">
+            <label>Username</label>
+            <input type="text" id="username">
+            <span id="username-error"></span>
+        </div>
+
+        <div class="form-group">
+            <label>Email</label>
+            <input type="text" id="email">
+            <span id="mail-error"></span>
+        </div>
+
+        <div class="form-group">
+            <label>Password</label>
+            <input type="password" id="password">
+            <span id="password-error"></span>
+        </div>
+
+        <div class="form-group">
+            <label>Confirm password</label>
+            <input type="password" id="confirmPassword">
+            <span id="cpassword-error"></span>
+        </div>
+
+        <button>submit</button>
+    </form>
+
+    <script src="indexfv.js"></script>
+</body>
+
+</html>
