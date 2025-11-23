@@ -1,1 +1,1 @@
-create the simple validation page
+This project is a basic form validation webpage created using HTML, CSS, and JavaScript. It checks user inputs like username, email, password, and confirm password before submitting the form. If any field is incorrect, an error message is shown. When all inputs are valid, the form shows a success message. This project helps understand simple JavaScript validation and DOM manipulation.
