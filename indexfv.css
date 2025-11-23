@@ -21,7 +21,7 @@ h1{
     padding: 20px;
 }
 #form-validate .form-group label{
-    font: size 20px;
+    font-size: 20px;
     font-family: monospace;
 }
 #form-validate .form-group{
@@ -49,6 +49,7 @@ h1{
     border: none;
     border-radius: 7px;
     font-size: 15px;
-    font-family: 
+    font-family: monospace 
     
+
 }
